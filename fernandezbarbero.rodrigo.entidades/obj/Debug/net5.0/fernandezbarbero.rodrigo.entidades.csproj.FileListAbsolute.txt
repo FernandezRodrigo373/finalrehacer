@@ -1,0 +1,5 @@
+C:\Users\alumno\Desktop\fernandezbarbero.rodrigo.entidades\obj\Debug\net5.0\fernandezbarbero.rodrigo.entidades.csproj.AssemblyReference.cache
+C:\Users\alumno\Desktop\fernandezbarbero.rodrigo.entidades\obj\Debug\net5.0\fernandezbarbero.rodrigo.entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumno\Desktop\fernandezbarbero.rodrigo.entidades\obj\Debug\net5.0\fernandezbarbero.rodrigo.entidades.AssemblyInfoInputs.cache
+C:\Users\alumno\Desktop\fernandezbarbero.rodrigo.entidades\obj\Debug\net5.0\fernandezbarbero.rodrigo.entidades.AssemblyInfo.cs
+C:\Users\alumno\Desktop\fernandezbarbero.rodrigo.entidades\obj\Debug\net5.0\fernandezbarbero.rodrigo.entidades.csproj.CoreCompileInputs.cache
